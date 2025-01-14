@@ -1,1 +1,1 @@
-Medium Article "Parsing PubMed Files and Sending API Requests".
+Medium Article "How to Parse PubMed Search Text Files Using Data Element Fields".
